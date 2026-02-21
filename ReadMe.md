@@ -10,15 +10,7 @@ This repository is record of my Leetcode solutions.
 ---
 
 ## 📊 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/AbuTheMonke?theme=dark&font=Recursive&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AbuTheMonke?theme=light&font=Recursive&ext=activity)
 
-### 📊 CURRENT STATUS
-| Category | Difficulty |
-| :--- | :--- |
-| 🟢 **Easy** | [View Solutions](./solutions/easy) |
-| 🟡 **Medium** | [View Solutions](./solutions/medium) |
-| 🔴 **Hard** | [View Solutions](./solutions/hard) |
-
----
 
 <sub>**Disclaimer:** This document was written by me and formatted with the assistance of Gemini.</sub>
