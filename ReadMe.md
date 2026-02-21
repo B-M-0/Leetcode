@@ -1,13 +1,11 @@
 # 🏆 LEETCODE GRIND
-### *A Daily Record of Algorithmic Mastery*
 
----
 
 ## 🛠️ THE SYSTEM
-This repository serves as a permanent archive for my solutions. 
+This repository is record of my Leetcode solutions. 
 
-* **Automation:** Everything is synced **automatically** via GitHub Workflows.
-* **Consistency:** My progress is reflected in real-time as I solve problems.
+* **Automation:** This repository has been automated so that everything is is synced automatically via a GitHub Workflows.
+* **Stats:** I like stats, I've attempted to automate my stats
 
 ---
 
